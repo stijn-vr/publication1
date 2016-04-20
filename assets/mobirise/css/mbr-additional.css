@@ -1,10 +1,31 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
-#content1-18 P {
+#content1-27 P {
+  color: #000000;
+}
+#content1-35 DIV {
+  color: #000000;
+}
+#content1-50 P {
+  color: #000000;
+}
+#content1-72 DIV {
   color: #000000;
 }
 #header3-15 H3 {
   text-align: center;
+}
+#content1-23 P {
+  color: #000000;
+}
+#content1-44 P {
+  color: #000000;
+}
+#content1-42 P {
+  color: #000000;
+}
+#content1-42 DIV {
+  color: #000000;
 }
 
 
@@ -27,28 +48,4 @@
 }
 #ext_menu-47.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
-}
-#content1-23 P {
-  color: #000000;
-}
-#content1-27 P {
-  color: #000000;
-}
-#content1-35 DIV {
-  color: #000000;
-}
-#content1-44 P {
-  color: #000000;
-}
-#content1-50 P {
-  color: #000000;
-}
-#content1-72 DIV {
-  color: #000000;
-}
-#header3-48 H3 {
-  text-align: left;
-}
-#content1-47 P {
-  color: #000000;
 }
