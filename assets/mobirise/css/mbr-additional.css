@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+#content1-18 P {
+  color: #000000;
+}
+#header3-15 H3 {
+  text-align: center;
+}
+
+
+#header1-1 H1 {
+  text-align: right;
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+}
+#header1-1 P {
+  text-align: right;
+}
+#header1-1 .btn {
+  font-size: 11px;
+}
+#header1-1 I {
+  font-family: 'Bitter', serif;
+}
+#ext_menu-47 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-47.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#content1-23 P {
+  color: #000000;
+}
+#content1-27 P {
+  color: #000000;
+}
+#content1-35 DIV {
+  color: #000000;
+}
+#content1-44 P {
+  color: #000000;
+}
+#content1-50 P {
+  color: #000000;
+}
+#content1-72 DIV {
+  color: #000000;
+}
+#header3-48 H3 {
+  text-align: left;
+}
+#content1-47 P {
+  color: #000000;
+}
